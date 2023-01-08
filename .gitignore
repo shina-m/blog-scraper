@@ -1,0 +1,4 @@
+*.jpg
+*venv
+.idea
+.DS_Store
